@@ -2,7 +2,8 @@
 微头条，SpringBoot加MyBatis-Plus的简单实战应用
 - springboot-headline 后端代码
 - my-vue3-vite-project 前端项目代码
-
+- TOP_NEWS.sql 数据库表创建代码
+  
 ### 微头条业务简介
   - 用户功能
       - 注册功能

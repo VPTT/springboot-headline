@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.token",
+      "type": "com.ptt.utils.JwtHelper",
+      "sourceType": "com.ptt.utils.JwtHelper"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.token.token-expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.ptt.utils.JwtHelper"
+    },
+    {
+      "name": "jwt.token.token-sign-key",
+      "type": "java.lang.String",
+      "sourceType": "com.ptt.utils.JwtHelper"
+    }
+  ],
+  "hints": []
+}
